@@ -1,6 +1,6 @@
 # Simple Todo List App
 
-A simple Todo List you can use in your web browser.
+A clean and easy-to-use Todo List application for managing your daily tasks. Built with HTML, CSS, and JavaScript.
 
 ## How to Use
 1. Open `index.html` in your browser.
@@ -13,12 +13,12 @@ No installation needed!
 
 ### Main Page
 ![Main Page](main-screenshotbord.png)
-*Add new tasks here.*
+*A modern, minimal interface where you can add new tasks to your list.*
 
 ### Edit or Delete a Task
-![Edit or Delete](edit_and _deletefeature.png)
-*Edit or delete your tasks easily.*
+![Edit or Delete](edit_and_deletefeature.png)
+*Easily update your tasks using the Edit button, or remove them with the Delete button. The interface is intuitive and user-friendly.*
 
 ---
 
-Made with HTML, CSS, and JavaScript. 
+This project demonstrates best practices in basic web development and user experience design. 
